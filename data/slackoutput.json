@@ -1,0 +1,1222 @@
+{
+    "ok": true,
+    "messages": [
+        {
+            "type": "message",
+            "user": "U7ZLUSZ33",
+            "text": "How much of the findings do you think can be attributed to the structures of the programs versus the leaders\/people in\/nature of the programs? These obviously influence each other, but do you think one is more powerful than the other?",
+            "ts": "1511892784.000771",
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "U86RQ17BQ"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "user": "U86RQ17BQ",
+            "text": "Is there any existing literature on the value or problems with structured versus unstructured time?",
+            "ts": "1511892720.000652"
+        },
+        {
+            "type": "message",
+            "user": "U80A0AF25",
+            "text": "I'm curious about the effect the reputations of the different programs have on recruiting participants and leaders. is there any information on how that has impacted decisions and\/or how perceptions of different programs have changed after participating?",
+            "ts": "1511892706.000004"
+        },
+        {
+            "type": "message",
+            "user": "U86RQ17BQ",
+            "text": "I think the friendship bracelets as a physical representation of being a FOPper is so interesting!",
+            "ts": "1511892635.000098"
+        },
+        {
+            "type": "message",
+            "user": "U86RQ17BQ",
+            "text": "I'm thinking about either economic obligation (donating to charity, advocating for wealth redistribution), social (tutoring, maybe not discriminating in their own lives or lifting members of a community up), or political (as \"citizen leaders\")",
+            "thread_ts": "1511887416.000733",
+            "parent_user_id": "U803GNTLK",
+            "ts": "1511892516.000453"
+        },
+        {
+            "type": "message",
+            "user": "U86RQ17BQ",
+            "text": "And also to talk about the rewards of being in an exclusive group at Harvard as being parallel to the  rewards of graduating from Harvard",
+            "thread_ts": "1511891883.000234",
+            "parent_user_id": "U86RQ17BQ",
+            "ts": "1511891950.000027"
+        },
+        {
+            "type": "message",
+            "user": "U86RQ17BQ",
+            "text": "Your findings about exclusive groups mirror some of what people have told me about being at Harvard. I think it might be interesting to weave into your paper the fact that Harvard itself is perhaps the most important exclusive group",
+            "thread_ts": "1511891883.000234",
+            "reply_count": 1,
+            "replies": [
+                {
+                    "user": "U86RQ17BQ",
+                    "ts": "1511891950.000027"
+                }
+            ],
+            "subscribed": false,
+            "unread_count": 1,
+            "ts": "1511891883.000234"
+        },
+        {
+            "type": "message",
+            "user": "U803GNTLK",
+            "text": "How to differentiate exclusivity via entrance processes in organization vs. exclusivity in the organization culture itself?",
+            "ts": "1511891709.000791",
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "U7ZLUSZ33"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "user": "U7ZLUSZ33",
+            "text": "Was there overlap between the groups that interviewees were a part of? I.e. were some interviewees in both inclusive and exclusive groups? If so, how did that affect their sense or interpretation of belonging?",
+            "ts": "1511891677.000521"
+        },
+        {
+            "type": "message",
+            "user": "U803GNTLK",
+            "text": "Do 'inclusive' groups have comp processes?",
+            "ts": "1511891652.000163",
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "U86RQ17BQ"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "user": "U8181NYQ7",
+            "text": "Were your participants hopeful for greater balance between athletics and academics within their college careers?",
+            "ts": "1511891490.000693"
+        },
+        {
+            "type": "message",
+            "user": "U80KFNK37",
+            "text": "Going off of Milton's question, would the athletes prefer it if the school treated them more like athletes rather than students?",
+            "ts": "1511891404.000468"
+        },
+        {
+            "type": "message",
+            "user": "U803GNTLK",
+            "text": "ie do they accept it as \"this is just what Harvard is\" or do they want change?",
+            "thread_ts": "1511891356.000048",
+            "parent_user_id": "U803GNTLK",
+            "ts": "1511891384.000008"
+        },
+        {
+            "type": "message",
+            "user": "U80H9R89W",
+            "text": "How do student athletes future plans (e.g., do they want to become a pro athlete\/continue after college?) affect their view on the school-athletics balance?",
+            "ts": "1511891360.000257"
+        },
+        {
+            "type": "message",
+            "user": "U803GNTLK",
+            "text": "How do interview respondents perceive Harvards priority as being academics?",
+            "thread_ts": "1511891356.000048",
+            "reply_count": 1,
+            "replies": [
+                {
+                    "user": "U803GNTLK",
+                    "ts": "1511891384.000008"
+                }
+            ],
+            "subscribed": false,
+            "unread_count": 1,
+            "ts": "1511891356.000048"
+        },
+        {
+            "type": "message",
+            "user": "U8181NYQ7",
+            "text": "Would your interviewees from Harvard be willing to transition into a set-up similar to that of UT Austin in order to receive the benefits they attain?",
+            "ts": "1511891342.000146"
+        },
+        {
+            "type": "message",
+            "user": "U86RQ17BQ",
+            "text": "Do you have any sense of how student's experiences differ by gender? I could imagine (from Kate's presentation) that there are different expectations for male and female student athletes. That also might mean that controlling for gender is really helpful in your study",
+            "ts": "1511891307.000252",
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "U7ZLUSZ33"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "user": "U803GNTLK",
+            "text": "Interesting comment on how Harvard and UT Austin have \"different images\"",
+            "ts": "1511891150.000644"
+        },
+        {
+            "type": "message",
+            "user": "U80KFNK37",
+            "text": "Do most varsity athletes at Harvard have professional athleticism as an eventual goal? If not, is this because the school prioritizes the \"student\" in \"student athlete\" or could the school's policy be a result of an assumption that the varsity athletes don't plan to go pro?",
+            "ts": "1511891148.000731"
+        },
+        {
+            "type": "message",
+            "user": "U803GNTLK",
+            "text": "Are you interested in portraying contrasts between perceptions of FOP from non-FOPpers and FOPpers?",
+            "ts": "1511890841.000567"
+        },
+        {
+            "type": "message",
+            "user": "U803GNTLK",
+            "text": "I would like to see more of student perspective on whether FOP's financial need coverage is effective to lead students to choose this pre orientation program over others",
+            "ts": "1511890570.000280"
+        },
+        {
+            "type": "message",
+            "user": "U803GNTLK",
+            "text": "Could it be possible to incorporate more study of FOP leadership?",
+            "ts": "1511890481.000687"
+        },
+        {
+            "type": "message",
+            "user": "U86RQ17BQ",
+            "text": "This might be coming, but I'm really interested in which students do FOP. I would guess that they tend to be not international (since international students might do FIP) and perhaps higher income (cost of FOP)",
+            "edited": {
+                "user": "U86RQ17BQ",
+                "ts": "1511890354.000000"
+            },
+            "ts": "1511890318.000285"
+        },
+        {
+            "type": "message",
+            "user": "U7ZLUSZ33",
+            "text": "Is there data on which types of colleges tend to have outdoor pre-orientation programs (public vs private)?",
+            "ts": "1511890233.000040",
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "U803GNTLK",
+                        "U86RQ17BQ"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "user": "U86RQ17BQ",
+            "text": "great dressing metaphor!!!",
+            "ts": "1511889989.000336",
+            "reactions": [
+                {
+                    "name": "leaves",
+                    "users": [
+                        "U803GNTLK"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "ramen",
+                    "users": [
+                        "U803HQBT5"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "user": "U803GNTLK",
+            "text": "What specifically about questions on home country make international students uncomfortable?",
+            "ts": "1511889890.000293"
+        },
+        {
+            "type": "message",
+            "user": "U7ZLUSZ33",
+            "text": "I wonder how much of the socialization and acculturation depends on the specific context of Harvard versus any American university",
+            "ts": "1511889880.000211"
+        },
+        {
+            "type": "message",
+            "user": "U86RQ17BQ",
+            "text": "I like your explanation about choosing socialization over other terms, especially in light of your finding that students did not identify an \"American culture\"",
+            "ts": "1511889847.000297"
+        },
+        {
+            "type": "message",
+            "user": "U86RQ17BQ",
+            "text": "I completely agree - I think that when the spoils are as high as they are now, no \"meritocratic\" system makes sense. Personally I believe the solution is to lower the economic awards for attending elite schools and to redistribute wealth in general",
+            "thread_ts": "1511887438.000523",
+            "parent_user_id": "U85B1NMSR",
+            "ts": "1511889542.000706"
+        },
+        {
+            "type": "message",
+            "user": "U803GNTLK",
+            "text": "Interesting comment on the end about lobbying colleges to not stigmatize criminal backgrounds. How could destigmatization carry over to the campus itself and not just in admissions processes?",
+            "ts": "1511889255.000207"
+        },
+        {
+            "type": "message",
+            "user": "U80KFNK37",
+            "text": "Some were predicted and placed on the survey, but others (like the mutual friends category and pre-orientation programs) emerged from allowing students specify what they meant by \"other.\" Unfortunately, I didn't have enough time to get into more detail.",
+            "thread_ts": "1511882209.000262",
+            "parent_user_id": "U805KCJQJ",
+            "ts": "1511889231.000379"
+        },
+        {
+            "type": "message",
+            "user": "U80H9R89W",
+            "text": "What do you think about college's readiness\/tendency to deal with criminal offenses (like sexual assault) internally, and how this interacts with their positions on criminality of students within their school, versus students they are considering admitting?",
+            "ts": "1511889225.000625",
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "U7ZLUSZ33"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "user": "U803HQBT5",
+            "text": "Or those who come directly from Haiti as internationals. ",
+            "thread_ts": "1511888504.000297",
+            "parent_user_id": "U80H9R89W",
+            "ts": "1511889058.000132"
+        },
+        {
+            "type": "message",
+            "user": "U80H9R89W",
+            "text": "Have you had the chance to look at programs like the Bard Prison Initiative, that allow inmates to earn college degrees while incarcerated? This might fit into your points on recidivism, integration into community\/re-entry.",
+            "ts": "1511888998.000145"
+        },
+        {
+            "type": "message",
+            "user": "U80H9R89W",
+            "text": "How does where a Haitian student grew up, and the strength of a Haitian community there, affect the strength of the effects you describe? i.e., in what ways are the outlooks different for someone that grew up in NYC in a large Haitian community, versus someone that grew up in a rural place where they might have been the only Haitian family?",
+            "thread_ts": "1511888504.000297",
+            "reply_count": 1,
+            "replies": [
+                {
+                    "user": "U803HQBT5",
+                    "ts": "1511889058.000132"
+                }
+            ],
+            "subscribed": false,
+            "unread_count": 1,
+            "ts": "1511888504.000297",
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "U85B1NMSR"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "user": "U80KFNK37",
+            "text": "Could the findings that are specific to Haitian students be generalized to other groups?",
+            "ts": "1511888380.000614"
+        },
+        {
+            "type": "message",
+            "user": "U7ZLUSZ33",
+            "text": "How are these findings unique to Haitian students? What aspects of these quotes differentiate these opinions from students of other backgrounds (first-gen, low-income, immigrants) that aren\u2019t Haitian?",
+            "ts": "1511888372.000686",
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "U803HQBT5",
+                        "U803GNTLK",
+                        "U80KFNK37",
+                        "U8181NYQ7"
+                    ],
+                    "count": 4
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "user": "U80KFNK37",
+            "text": "How do you plan to get in contact with more Haitian students for your thesis?",
+            "ts": "1511888354.000483"
+        },
+        {
+            "type": "message",
+            "user": "U803GNTLK",
+            "text": "are there patterns in what respondents view as why they see college as necessary or unnecessary?",
+            "ts": "1511888337.000093"
+        },
+        {
+            "type": "message",
+            "user": "U817RU2SZ",
+            "text": "How did interviewees weigh the importance between status and income returns? Which was thought to be more important for them?",
+            "ts": "1511888268.000551"
+        },
+        {
+            "type": "message",
+            "user": "U85B1NMSR",
+            "text": "You talk about some of the cultural influences that affect the way Haitian 1-gen or 2-gen immigration students see higher ed and social mobility. How, if so, do these Haitian cultural influences clash or coalesce with the American cultural idea of meritocracy\/American Dream? Are there any conflicts there or mostly, just an exacerbation of two aligned forces?",
+            "ts": "1511888149.000033",
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "U805KCJQJ"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "user": "U8077FK8U",
+            "text": "Milton, were all of your interviewees Haitian-Americans from Harvard?",
+            "edited": {
+                "user": "U8077FK8U",
+                "ts": "1511888135.000000"
+            },
+            "ts": "1511888021.000272"
+        },
+        {
+            "type": "message",
+            "user": "U803GNTLK",
+            "text": "How did you connect with the Haitian individuals that you interviewed? (known previously, in org, ?)",
+            "ts": "1511887961.000042"
+        },
+        {
+            "type": "message",
+            "user": "U803GNTLK",
+            "text": "Please make Milton saying \"I approve this message\" the opening clip for the promotional video.",
+            "ts": "1511887869.000394",
+            "reactions": [
+                {
+                    "name": "100",
+                    "users": [
+                        "U7ZLUSZ33",
+                        "U80KFNK37",
+                        "U803HQBT5",
+                        "U805KCJQJ",
+                        "U80H9R89W"
+                    ],
+                    "count": 5
+                },
+                {
+                    "name": "joy",
+                    "users": [
+                        "U8077FK8U",
+                        "U8181NYQ7"
+                    ],
+                    "count": 2
+                },
+                {
+                    "name": "heart",
+                    "users": [
+                        "U86RQ17BQ"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "user": "U80H9R89W",
+            "text": "This is an article on Ivy league admissions you might find interesting: <https:\/\/www.newyorker.com\/magazine\/2005\/10\/10\/getting-in>. I haven't read it in a really long time, but if i remember correctly it talks about the change towards holistic admissions at Harvard vs SATs, and the history this is routed in",
+            "attachments": [
+                {
+                    "service_name": "The New Yorker",
+                    "title": "Getting In",
+                    "title_link": "https:\/\/www.newyorker.com\/magazine\/2005\/10\/10\/getting-in",
+                    "text": "The social logic of Ivy League admissions.",
+                    "fallback": "The New Yorker: Getting In",
+                    "from_url": "https:\/\/www.newyorker.com\/magazine\/2005\/10\/10\/getting-in",
+                    "service_icon": "https:\/\/www.newyorker.com\/favicon.ico",
+                    "id": 1
+                }
+            ],
+            "ts": "1511887673.000656",
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "U807FA4F6",
+                        "U805KCJQJ"
+                    ],
+                    "count": 2
+                },
+                {
+                    "name": "thinking_face",
+                    "users": [
+                        "U803GNTLK"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "user": "U80KFNK37",
+            "text": "Your comment on how these views could change over time made me think of Harvard graduates. Perhaps some of the impact is delayed; have you considered getting data on former students?",
+            "edited": {
+                "user": "U80KFNK37",
+                "ts": "1511887564.000000"
+            },
+            "ts": "1511887521.000183"
+        },
+        {
+            "type": "message",
+            "user": "U85B1NMSR",
+            "text": "Like, how do we reform merit-based practices to actually lead to social mobility?",
+            "ts": "1511887457.000572"
+        },
+        {
+            "type": "message",
+            "user": "U85B1NMSR",
+            "text": "Like you noted, \"merit-based changes\" are NOT enough because they exist in a frame that is already unequal, exacerbating social inequalities. But how does meritocracy work (or does it work at all) in a society that is already unequal? THEN should we give up meritocracy wholesale? Should we just have a lottery system for all colleges?",
+            "thread_ts": "1511887438.000523",
+            "reply_count": 1,
+            "replies": [
+                {
+                    "user": "U86RQ17BQ",
+                    "ts": "1511889542.000706"
+                }
+            ],
+            "subscribed": false,
+            "unread_count": 1,
+            "ts": "1511887438.000523"
+        },
+        {
+            "type": "message",
+            "user": "U803GNTLK",
+            "text": "could you elaborate more on what you mean by \"obligation as economic elites\"?",
+            "thread_ts": "1511887416.000733",
+            "reply_count": 1,
+            "replies": [
+                {
+                    "user": "U86RQ17BQ",
+                    "ts": "1511892516.000453"
+                }
+            ],
+            "subscribed": false,
+            "unread_count": 1,
+            "ts": "1511887416.000733"
+        },
+        {
+            "type": "message",
+            "user": "U803GNTLK",
+            "text": "lol",
+            "ts": "1511887323.000551"
+        },
+        {
+            "type": "message",
+            "user": "U84N3P317",
+            "text": "Dude, your thesis is based on dystopian fiction. My thesis is based on dystopian fiction. What is social studies?",
+            "ts": "1511887250.000477",
+            "reactions": [
+                {
+                    "name": "alien",
+                    "users": [
+                        "U803GNTLK",
+                        "U85B1NMSR",
+                        "U7ZLUSZ33",
+                        "U803HQBT5"
+                    ],
+                    "count": 4
+                },
+                {
+                    "name": "skull",
+                    "users": [
+                        "U86RQ17BQ"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "user": "U85B1NMSR",
+            "text": "What about the differences in parental occupation? Let's say a parent in business, humanities\/education, law, science? These differences might be a factor in their expectations? Or no, are all middle\/upper class parenting very similar despite the occupation?",
+            "ts": "1511887225.000896"
+        },
+        {
+            "type": "message",
+            "user": "U80H9R89W",
+            "text": "Were you able to look at the differences within wealth categories of parental education?",
+            "ts": "1511887085.000335"
+        },
+        {
+            "type": "message",
+            "user": "U803HQBT5",
+            "text": "Did you control for any other variables? Students whose parents pass wealth to them can be let\u2019s say middle class or parents who are CEOs at big companies, or international high income students. Those who don\u2019t, they can be from low income immigrants, to middle -high income families who don\u2019t want to pass wealth on. Their experiences might differ greatly, and still fit the criteria. ",
+            "ts": "1511887069.000628"
+        },
+        {
+            "type": "message",
+            "user": "U80H9R89W",
+            "text": "How do you think group interviews would (theoretically -- I'm not actually suggesting that you change you methods) affect students' answers (i.e. two students from a single category, or the categories mixed)? What factors and values will people emphasize when around peers vs alone, and do you have a guess on how the similarities between group look in practice?",
+            "ts": "1511886994.000182"
+        },
+        {
+            "type": "message",
+            "user": "U803GNTLK",
+            "text": "i think your discussion of old vs. new money begins to answer my question above a bit ^",
+            "ts": "1511886955.000164"
+        },
+        {
+            "type": "message",
+            "user": "U80MQHQ2W",
+            "text": "Did you address peoples choice to go to a liberal arts college if the goal was to get a job? ",
+            "ts": "1511886907.000743"
+        },
+        {
+            "type": "message",
+            "user": "U803GNTLK",
+            "text": "What about students whose parents are immigrants and do not have generational wealth but are of a significant socioeconomic standing and have money to pay for their child's college? what category does this fall into?",
+            "ts": "1511886907.000742"
+        },
+        {
+            "type": "message",
+            "user": "U84N3P317",
+            "text": "How did you define and determine generational wealth when selecting your participants? Americans especially are pretty inaccurate at estimating their own SES backgrounds relative to other people.",
+            "ts": "1511886845.000380",
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "U7ZLUSZ33",
+                        "U803HQBT5",
+                        "U803GNTLK",
+                        "U80MQHQ2W"
+                    ],
+                    "count": 4
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "user": "U803GNTLK",
+            "text": "Are there potential reasons for going to college that you had hypothesized but were not brought up by the subjects you interviewed?",
+            "ts": "1511886834.000336"
+        },
+        {
+            "type": "message",
+            "user": "U803HQBT5",
+            "text": "How do you get students for your research? I imagine it must be hard to ask people if their parents will pass wealth on them. ",
+            "ts": "1511886821.000359",
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "U84N3P317",
+                        "U7ZLUSZ33",
+                        "U80KFNK37"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "user": "U80KFNK37",
+            "text": "In regards to the topic of tiger parenting, have you considered the role of coming from an immigrant family being the cause\/motivation rather than specifically being Asian American?",
+            "ts": "1511886273.000431"
+        },
+        {
+            "type": "message",
+            "user": "U803HQBT5",
+            "text": "Yes, more in the social than in the academics. Most of them were very well prepared, let\u2019s say for usual intro classes, but just like American first-gens, they struggled in getting set up with how the system works. In the social, they don\u2019t relate to other students from their own country because the others come from higher income backgrounds, don\u2019t relate well to the American first-gens because the experiences before Harvard are so different. If you had to remember something from them, is that they feel alienated, just the way the US calls them \u201cnon-resident aliens\u201d. ",
+            "thread_ts": "1511881762.000195",
+            "parent_user_id": "U7ZLUSZ33",
+            "ts": "1511886262.000572"
+        },
+        {
+            "type": "message",
+            "user": "U85B1NMSR",
+            "text": "Perhaps there could be more of a connection between tiger parenting and the current mental health issues that AAPI students deal with in college?",
+            "ts": "1511886226.000160"
+        },
+        {
+            "type": "message",
+            "user": "U7ZLUSZ33",
+            "text": "What recommendations would you then make for Harvard to address mental health concerns in the Asian\/Asian-American community?",
+            "ts": "1511886200.000440"
+        },
+        {
+            "type": "message",
+            "user": "U84N3P317",
+            "text": "Re: the Asian vs. Asian American difference (or lack thereof), do you think that the college experience could account for this convergence?",
+            "ts": "1511886099.000076"
+        },
+        {
+            "type": "message",
+            "user": "U80H9R89W",
+            "text": "Have you had a chance to consider the different impact on student sense of empowerment in student internships vs organizations like those at the PBHA?",
+            "ts": "1511885856.000915"
+        },
+        {
+            "type": "message",
+            "user": "U8123695L",
+            "text": "What is the relationship between the interns and the administrators",
+            "ts": "1511885846.000707"
+        },
+        {
+            "type": "message",
+            "user": "U84N3P317",
+            "text": "Did most of the interns have a vision\/desire for change before they became interns? Or did their imagination develop through their work? I.e. was getting the internship a strategic, pragmatic move to realize a preexisting goal?",
+            "ts": "1511885541.000069"
+        },
+        {
+            "type": "message",
+            "user": "U805KCJQJ",
+            "text": "How do students experiences with internships compare to students experiences as leaders of student groups or student in administrative positions?",
+            "ts": "1511885531.000597"
+        },
+        {
+            "type": "message",
+            "user": "U84N3P317",
+            "text": "Re: the idea that administrators have a monopoly over certain kinds of power\/spheres of the university, it would be interesting to see how and why students believe what they do about the institutional balance of power.",
+            "ts": "1511885481.000536"
+        },
+        {
+            "type": "message",
+            "user": "U84N3P317",
+            "text": "What were some of the changes that a student like Lane would like to see?",
+            "ts": "1511885439.000196"
+        },
+        {
+            "type": "message",
+            "user": "U8181NYQ7",
+            "text": "I wonder how great the impact will be across all students if a pass\/fail system for all first year classes was embedded into the Harvard culture? Would students be motivated to do well in these courses or simply do enough to get by?",
+            "ts": "1511885110.000315"
+        },
+        {
+            "type": "message",
+            "user": "U8123695L",
+            "text": "How do you think the intersectionality of first-gen and other identities affect that sense of belonging at Harvard? Also, does going to a prep school cause first-gen students to not express their identities?",
+            "ts": "1511884984.000158"
+        },
+        {
+            "type": "message",
+            "user": "U805KCJQJ",
+            "text": "I'm interested by this idea that students can feel a sense of belonging in general but not to Harvard specifically. Could this belonging be facilitated by friends, identities, or group memberships? Does it have a different impact on college experience whether someone feelings belonging in general or feels at home at Harvard?",
+            "ts": "1511884764.000210"
+        },
+        {
+            "type": "message",
+            "user": "U84N3P317",
+            "text": "Were there trends in the feelings of belonging\/friendships developed based on the kind of high school people attended? You mentioned that having a prep school background gave you a certain position in spite of your being 1G. Was that common among participants who'd gone to similar schools, and was it different among students who went to public or non-elite ones?",
+            "edited": {
+                "user": "U84N3P317",
+                "ts": "1511884700.000000"
+            },
+            "ts": "1511884691.000216"
+        },
+        {
+            "type": "message",
+            "user": "U80H9R89W",
+            "text": "What did you find was the difference is students' opinions on consulting\/finance based on first gen and SES background? (in response to your discussion on impact of roommates, friends and financial constraints on post-grad decisions)",
+            "ts": "1511884624.000541"
+        },
+        {
+            "type": "message",
+            "user": "U7ZLUSZ33",
+            "text": "How much of your questions focused on future-focused areas (like the careers outcomes you mentioned)? Was this something you specifically asked about, or did interviewees bring those topics up on their own?",
+            "ts": "1511884563.000885"
+        },
+        {
+            "type": "message",
+            "user": "U84N3P317",
+            "text": "How did the students who felt lucky w\/r\/t their freshmen year roommates describe their roommates? Re: Ike's project, I'm curious about what distinguished the roommate pairs that were particularly supportive\/inclusive from those that weren't. It seemed like one of the key themes of Ike's work was that proximity heavily determined the blocking groups people joined.",
+            "ts": "1511884519.000180"
+        },
+        {
+            "type": "message",
+            "user": "U805KCJQJ",
+            "text": "What can Harvard do, through the efforts of Peer Advising Fellows, Proctors, and administrators, to facilitate the \"reaching in\" that your interview mentioned is lacking?",
+            "ts": "1511884506.000210"
+        },
+        {
+            "type": "message",
+            "user": "U8123695L",
+            "text": "For Eric, I think it would be interesting to analyze for-profit university students since some of those students fit a similar background and experience of the community college students that you interviewed. ",
+            "ts": "1511884385.000620"
+        },
+        {
+            "type": "message",
+            "user": "U8181NYQ7",
+            "text": "For students who don't have to work an insane amount of hours, a college campus may also act as a beneficial social space. Are there feelings of resentment of the institution on behalf of the students who work given the negative feelings attained through being overworked\/overwhelmed?",
+            "ts": "1511884201.000218"
+        },
+        {
+            "type": "message",
+            "user": "U807FA4F6",
+            "text": "Just out of curiosity: how did you choose the coding themes that you chose? were they based off the interviews or did you choose them beforehand?",
+            "ts": "1511884054.000486"
+        },
+        {
+            "type": "message",
+            "user": "U7ZLUSZ33",
+            "text": "Did you find a difference between interviewees whose parents were not helping them pay for college (even if they could afford to) versus interviewees whose parents could not afford to help pay for college? It seems like there might be differences in the cultural\/social capital that these students possess.",
+            "edited": {
+                "user": "U7ZLUSZ33",
+                "ts": "1511884048.000000"
+            },
+            "ts": "1511884000.000667",
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "U805KCJQJ"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "user": "U817RU2SZ",
+            "text": "How do you define \"integration\"? time spent at campus or mental sense of belonging?",
+            "ts": "1511883887.000527"
+        },
+        {
+            "type": "message",
+            "user": "U84N3P317",
+            "text": "Did students who had full time jobs work with other students at HACC? One could imagine a scenario where the college social life is transposed onto the workplace.",
+            "ts": "1511883855.000085",
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "U805KCJQJ"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "user": "U84N3P317",
+            "text": "^Agreed. Transfer students are just dropped into the houses where blocking groups are an important social unit. When I transferred, I roomed with another transfer student, and that's pretty much the only thing we had in common. Anecdotally, it seems like transfer students integrate into preexisting blocking groups.",
+            "ts": "1511882765.000282"
+        },
+        {
+            "type": "message",
+            "user": "U8123695L",
+            "text": "I think it would be interesting to see what it\u2019s like for transfer students and how blocking groups affect them after their first year.",
+            "ts": "1511882581.000304"
+        },
+        {
+            "type": "message",
+            "user": "U80A0AF25",
+            "text": "I also really like Kai's point. Was there any follow-up or cross-year analysis determining how many original blocking groups are still intact?",
+            "ts": "1511882443.000390"
+        },
+        {
+            "type": "message",
+            "user": "U80H9R89W",
+            "text": "How does the current state of an interviewees relationship with their blockmates affect the way that they responded to the interview questions or reflected on the process of forming blocking groups?",
+            "ts": "1511882429.000334"
+        },
+        {
+            "type": "message",
+            "user": "U80A0AF25",
+            "text": "how can you account for the self-selecting effect of those who choose to fill out the survey? these might be consistent with those who feel comfortable enough about their blocking group b\/c of low drama, which may overlap with those who blocked with freshman entrywaymates or religion?",
+            "ts": "1511882402.000314"
+        },
+        {
+            "type": "message",
+            "user": "U84N3P317",
+            "text": "Were there trends in the data based on the class years of the respondents? There seems to be a pretty common trend of the blocking group break up.",
+            "edited": {
+                "user": "U84N3P317",
+                "ts": "1511882438.000000"
+            },
+            "ts": "1511882399.000481"
+        },
+        {
+            "type": "message",
+            "user": "U807FA4F6",
+            "text": "It is interesting that religion was considered a \"house specific\" factor, and I wonder how houses identities change based on the blocking groups that are admitted. When analyzing your survey data, I would be interested to know how many people were from the same blocking groups in the houses that answered your survey, and whether that changed the data at all",
+            "ts": "1511882398.000102",
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "U7ZLUSZ33"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "user": "U84N3P317",
+            "text": "How can factors be considered house specific? Aren't the houses assigned randomly?",
+            "ts": "1511882327.000159"
+        },
+        {
+            "type": "message",
+            "user": "U805KCJQJ",
+            "text": "How did you decide which factors to include in the survey for the question, \"What brought your blocking group together?\"",
+            "thread_ts": "1511882209.000262",
+            "reply_count": 1,
+            "replies": [
+                {
+                    "user": "U80KFNK37",
+                    "ts": "1511889231.000379"
+                }
+            ],
+            "subscribed": false,
+            "unread_count": 1,
+            "ts": "1511882209.000262"
+        },
+        {
+            "type": "message",
+            "user": "U807FA4F6",
+            "text": "Is there some kind of community network for students who are both first-generation students and international? I know community groups exist for both separately, but it would be interesting to see if students with this intersection of identities have their own support system (either formally or informally), and if so, how that affects their experiences",
+            "ts": "1511881991.000252"
+        },
+        {
+            "type": "message",
+            "user": "U8123695L",
+            "text": "How do you think programs on campus like FIP could better cater to first-gen, low-income international students?",
+            "ts": "1511881924.000855"
+        },
+        {
+            "type": "message",
+            "user": "U817RU2SZ",
+            "text": "How is low income international students' experience different from other international students from high income background? what kind of specific programs would help this specific intersecting population?",
+            "ts": "1511881882.000093"
+        },
+        {
+            "type": "message",
+            "user": "U805KCJQJ",
+            "text": "I'm interested by your ideas about the cultural barrier for international students. I have heard similar concerns from international students I know. How do these cultural differences influence feelings of belonging among international students?",
+            "ts": "1511881840.000353"
+        },
+        {
+            "type": "message",
+            "user": "U80H9R89W",
+            "text": "How do the experiences of first gen international students vary by continent or nation (i.e. difference of first gen from England vs. Chile vs. China)? How would the supports you suggest affect them differently?",
+            "ts": "1511881831.000160"
+        },
+        {
+            "type": "message",
+            "user": "U84N3P317",
+            "text": "Were there trends in the kinds of schools\/academic backgrounds of these 1G international students? I.e. did they attend similar high schools? Did their stories of getting to Harvard in spite of their challenges evince common experiences?",
+            "ts": "1511881818.000283"
+        },
+        {
+            "type": "message",
+            "user": "U7ZLUSZ33",
+            "text": "It seems like your interviews covered both social and academic challenges that first-gen international students face \u2014 did you find that students faced more challenges in one area than the other?",
+            "thread_ts": "1511881762.000195",
+            "reply_count": 1,
+            "replies": [
+                {
+                    "user": "U803HQBT5",
+                    "ts": "1511886262.000572"
+                }
+            ],
+            "subscribed": false,
+            "unread_count": 1,
+            "ts": "1511881762.000195"
+        },
+        {
+            "type": "message",
+            "user": "U84N3P317",
+            "text": "If it's just a matter of self-reported motivation, it would be fascinating to compare those findings to the findings of someone like Emma, who's studying elite students' understanding of meritocracy.",
+            "ts": "1511881665.000833"
+        },
+        {
+            "type": "message",
+            "user": "U84N3P317",
+            "text": "How does one measure motivation?",
+            "ts": "1511881612.000249"
+        },
+        {
+            "type": "message",
+            "user": "U807FA4F6",
+            "text": "I would be interested to hear about how interviewees felt (i.e. did they feel reserved about it) about asking for official accommodations, like extra time on exams, and whether they felt that that affected their academic performance",
+            "ts": "1511881004.000237"
+        },
+        {
+            "type": "message",
+            "user": "U8181NYQ7",
+            "text": "I didn't know that 9% of the student body had learning disabilities. This is a significant portion, and this research should prove very useful to further policy reforms to make Harvard a more inclusive space overall!",
+            "ts": "1511880854.000436"
+        },
+        {
+            "type": "message",
+            "user": "U8123695L",
+            "text": "How do you think there can be peer support campus for students with LDs? Speaking from my perspective, I know there was a \u201clow-income\u201d club on campus but it was considered  too stigmatizing. I\u2019m wondering if the same would happen for students with LDs.",
+            "ts": "1511880793.000525"
+        },
+        {
+            "type": "message",
+            "user": "U817RU2SZ",
+            "text": "How open students with LD are about their LDs? Any possibility for fostering the community among these students?",
+            "ts": "1511880734.000007"
+        },
+        {
+            "type": "message",
+            "user": "U86RQ17BQ",
+            "text": "I'd be curious to know what official messaging Harvard provides about students with learning disabilities. Does any official source say that students are fully accommodated or something to that extent?",
+            "ts": "1511880568.000039"
+        },
+        {
+            "type": "message",
+            "user": "U817RU2SZ",
+            "text": "Just out of curiosity: what kind of support systems does Harvard provide for students with LDs now? Are they perceived as helpful by students?",
+            "ts": "1511880564.000005"
+        },
+        {
+            "type": "message",
+            "user": "U805KCJQJ",
+            "text": "I'm interested about your discussion of the disconnect between feelings of mattering in students with learning disabilities and Harvard's expectations for its students. I wonder whether this discrepancy exists in different demographics.",
+            "ts": "1511880541.000192"
+        },
+        {
+            "type": "message",
+            "user": "U80A0AF25",
+            "text": "awesome that more students with LDs are in higher education than ever. I wonder what the percentage of enrollment was before and how much it's increased since then",
+            "ts": "1511880382.000414"
+        },
+        {
+            "type": "message",
+            "user": "U805KCJQJ",
+            "text": "It seems that much of this evidence comes from one side of the political spectrum. I wonder if conservative protestors follow a similar trend to progressive protestors.",
+            "ts": "1511879981.000112"
+        },
+        {
+            "type": "message",
+            "user": "U8181NYQ7",
+            "text": "It's very interesting how religion played a role in social activism, and that students were willing to affirm that it was a driving force given the almost taboo nature of mixing formal education and religious institutions. I like the find!",
+            "ts": "1511879939.000211"
+        },
+        {
+            "type": "message",
+            "user": "U805KCJQJ",
+            "text": "I'm interested by how students try to present themselves as victims in order to better appeal to administration. How does this measure up with your interviews? How did the demographics of the protestors compare to that statement?",
+            "ts": "1511879889.000441"
+        },
+        {
+            "type": "message",
+            "user": "U807FA4F6",
+            "text": "I thought the mention of tumblr and social media was a great way to tie together older scholarly literature with the most relevant contemporary evidence - great evidencing!",
+            "ts": "1511879854.000515"
+        },
+        {
+            "type": "message",
+            "user": "U8123695L",
+            "text": "I did not know about that distinction of safe spaces, which is fascinating. Are those two forms of space mutually exclusive or do the two spaces mix?",
+            "ts": "1511879848.000175"
+        },
+        {
+            "type": "message",
+            "user": "U86RQ17BQ",
+            "text": "Fascinating! I had no idea that Fight Club was the origin of \"special snowflake\"",
+            "ts": "1511879675.000238"
+        },
+        {
+            "type": "message",
+            "user": "U8123695L",
+            "text": "Similarly to Allison, I\u2019m wondering what it is like when there is an intersection of hierarchies between gender and race or other identities. How does race or other identities play a role?",
+            "ts": "1511879083.000039"
+        },
+        {
+            "type": "message",
+            "user": "U807FA4F6",
+            "text": "I thought your description of the gendering of office hours was very interesting, and I imagine this would be more prevalent in large classrooms with big office hours or in STEM classes where students are all working on the same pset at the same time. I wonder if trends could be found further broken down by academic subject or type of class",
+            "ts": "1511879034.000281"
+        },
+        {
+            "type": "message",
+            "user": "U817RU2SZ",
+            "text": "At Harvard, is it actually male students who portray masculine characters in learning and female students who portray feminine characters? would the finding very different in another HE institution?",
+            "ts": "1511878945.000671"
+        },
+        {
+            "type": "message",
+            "user": "U805KCJQJ",
+            "text": "I found it so interesting how women qualified their comfort within their classes, while men did not. I wonder how this theory applies to students who don't fit in the gender binary.",
+            "ts": "1511878903.000445"
+        },
+        {
+            "user": "U86RQ17BQ",
+            "text": "<@U86RQ17BQ> has joined the group",
+            "type": "message",
+            "subtype": "group_join",
+            "ts": "1511800683.000521"
+        },
+        {
+            "user": "U84N3P317",
+            "text": "<@U84N3P317> has joined the group",
+            "type": "message",
+            "subtype": "group_join",
+            "ts": "1511549419.000167"
+        },
+        {
+            "user": "U85B1NMSR",
+            "text": "<@U85B1NMSR> has joined the group",
+            "type": "message",
+            "subtype": "group_join",
+            "ts": "1511541968.000367"
+        },
+        {
+            "user": "U80H9R89W",
+            "text": "<@U80H9R89W> has joined the group",
+            "type": "message",
+            "subtype": "group_join",
+            "ts": "1510805732.000201"
+        },
+        {
+            "user": "U817RU2SZ",
+            "text": "<@U817RU2SZ> has joined the group",
+            "type": "message",
+            "subtype": "group_join",
+            "ts": "1510786308.000030"
+        },
+        {
+            "user": "U80A0AF25",
+            "text": "<@U80A0AF25> has joined the group",
+            "type": "message",
+            "subtype": "group_join",
+            "ts": "1510763695.000270"
+        },
+        {
+            "user": "U80MQHQ2W",
+            "text": "<@U80MQHQ2W> has joined the group",
+            "type": "message",
+            "subtype": "group_join",
+            "ts": "1510754625.000058"
+        },
+        {
+            "user": "U80KFNK37",
+            "text": "<@U80KFNK37> has joined the group",
+            "type": "message",
+            "subtype": "group_join",
+            "ts": "1510721731.000153"
+        },
+        {
+            "user": "U7ZLUSZ33",
+            "text": "<@U7ZLUSZ33> has joined the group",
+            "type": "message",
+            "subtype": "group_join",
+            "ts": "1510684980.000702"
+        },
+        {
+            "user": "U807FA4F6",
+            "text": "<@U807FA4F6> has joined the group",
+            "type": "message",
+            "subtype": "group_join",
+            "ts": "1510683289.000568"
+        },
+        {
+            "user": "U8077FK8U",
+            "text": "<@U8077FK8U> has joined the group",
+            "type": "message",
+            "subtype": "group_join",
+            "ts": "1510682615.000857"
+        },
+        {
+            "user": "U803HQBT5",
+            "text": "<@U803HQBT5> has joined the group",
+            "type": "message",
+            "subtype": "group_join",
+            "ts": "1510682345.000472"
+        },
+        {
+            "user": "U803GNTLK",
+            "text": "<@U803GNTLK> has joined the group",
+            "type": "message",
+            "subtype": "group_join",
+            "ts": "1510682250.000024"
+        },
+        {
+            "user": "U8182KBSB",
+            "text": "<@U8182KBSB> has joined the group",
+            "type": "message",
+            "subtype": "group_join",
+            "ts": "1510682227.000331"
+        },
+        {
+            "user": "U8123695L",
+            "text": "<@U8123695L> has joined the group",
+            "type": "message",
+            "subtype": "group_join",
+            "ts": "1510682189.000756"
+        },
+        {
+            "user": "U805P6YDQ",
+            "text": "<@U805P6YDQ> has joined the group",
+            "type": "message",
+            "subtype": "group_join",
+            "ts": "1510682172.000034"
+        },
+        {
+            "user": "U8181NYQ7",
+            "text": "<@U8181NYQ7> has joined the group",
+            "type": "message",
+            "subtype": "group_join",
+            "ts": "1510682147.000751"
+        },
+        {
+            "user": "U805KCJQJ",
+            "text": "<@U805KCJQJ> has joined the group",
+            "type": "message",
+            "subtype": "group_join",
+            "ts": "1510681844.000146"
+        },
+        {
+            "user": "U2A0QJ7JA",
+            "inviter": "U6RLWQX3P",
+            "text": "<@U2A0QJ7JA> has joined the group",
+            "type": "message",
+            "subtype": "group_join",
+            "ts": "1510680483.000117"
+        },
+        {
+            "user": "U0HTZUUP4",
+            "inviter": "U6RLWQX3P",
+            "text": "<@U0HTZUUP4> has joined the group",
+            "type": "message",
+            "subtype": "group_join",
+            "ts": "1510680483.000067"
+        },
+        {
+            "user": "U6RLWQX3P",
+            "text": "<@U6RLWQX3P> has joined the group",
+            "type": "message",
+            "subtype": "group_join",
+            "ts": "1510680482.000758"
+        }
+    ],
+    "has_more": false
+}

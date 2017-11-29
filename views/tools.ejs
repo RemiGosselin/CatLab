@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h1><%= title %></h1>
+    <p>
+      You are in "tools", huzzah!
+    </p>
+
+    <ol>
+      <% for (var i = 0; i < slack.length; i++) { %>
+
+        <li>
+          <%= (slack[i].user + " wrote " + slack[i].text) %>
+        </li>
+
+        <% } %>
+
+    </ol>
+    </body>
+</html>

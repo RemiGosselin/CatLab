@@ -13,6 +13,8 @@ var catMechanics = [
     {name: 'Stealing Cat', imageUrl:'/images/cat6.gif', rationale: 'When you get paid but have to pay your rent.'}
   ];
 
+
+
 /* GET home page. */
 router.get('/', function(req, res, next) {
   // var date = new Date();
@@ -26,5 +28,11 @@ router.get('/', function(req, res, next) {
   newResult.save((err)=> {console.log("saved result")});
   res.render('cats', { title: catMechanics[rollResult].name, imageUrl: catMechanics[rollResult].imageUrl, rationale: catMechanics[rollResult].rationale });
 });
+
+router.post('/catvote', function(req, res, next){
+  console.log(req.body);
+  // res.send(req.body)
+  res.redirect('/cats')
+})
 
 module.exports = router;
